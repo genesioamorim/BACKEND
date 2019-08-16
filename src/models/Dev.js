@@ -17,4 +17,4 @@ avatar:{
 
 },{timestamps:true}
 );
-module.exports= ('Dev', DevScehma);
+module.exports= model('Dev', DevScehma);
